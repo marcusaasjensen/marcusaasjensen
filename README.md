@@ -49,3 +49,5 @@ I am Marcus Aas Jensen, an inspired creator striving to become a software engine
   <img alt="Git" align= "left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img alt="Figma" align= "left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </p>
+
+![bannerend](./marcusaasjensen_youtube_banner_cropped.png)
