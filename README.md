@@ -21,8 +21,12 @@ I am Marcus Aas Jensen, an inspired creator striving to become a software engine
 
 ---
 
-<p align="leftr">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=8&theme=github_dark&count_private=true">
+<p align="left">
+  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true"/>
+</p>
+  
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true">
 </p>
 
 
