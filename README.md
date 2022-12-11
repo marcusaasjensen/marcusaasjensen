@@ -26,11 +26,11 @@ I am Marcus Aas Jensen, an inspired creator striving to become a software engine
 </p>
   
 <p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaasjensen&langs_count=4&theme=gotham&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=4&theme=gotham&count_private=true">
 </p>
 
 
-### Programming languages
+### My Programming language Selection
 
 <p>
   <img alt="C" align= "left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
