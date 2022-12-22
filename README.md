@@ -54,4 +54,4 @@ I am Marcus Aas Jensen, an inspired creator striving to become a software engine
 
 #
 
-![bannerend](./marcusaasjensen_youtube_banner_cropped.png)
+![bannerend](./Images/Banner/marcusaasjensen_youtube_banner_cropped.png)
