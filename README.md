@@ -17,27 +17,7 @@
 >As an artist myself, I love to create video games with the Unity Engine to tell stories and to improve my programming skills as well. 🌱
 <br>
 
-# Wanna connect? 👻
-
-*Follow me here*👍
-
-<p>
-  <a href="mailto: aasjensenm@gmail.com"><img alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a>
-  <a href="https://www.youtube.com/MarcusAasJensen_"><img alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a>
-  <a href="https://www.instagram.com/marcus_aasjensen"><img alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a>
-  <a href="https://marcus-a.itch.io"><img alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a>
-</p>
-
 ---
-
-**psssst! Would you mind sharing that link?**
-<p>
-  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="50px" src="./Images/Links/linktree.svg"</a>
-</p>
-  
-*Thanks again* 😉
-
-<br>
 
 # Languages selection ⌨️
 
@@ -52,8 +32,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=4&theme=gotham&count_private=true">
 </p>
-
----
 
 # Main tools 🛠️
 <table align="center">
@@ -70,10 +48,35 @@
 <br>
 
 # Operating systems 💻
-<table align="left">
+<table align="center">
   <td><img alt="Windows 11" align= "center" width="75px" height="75px" src="./Images/Tools/windows_11.svg"><br>Windows 11</td>
   <td><img alt="Linux" align= "center" width="75px" height="75px" src="./Images/Tools/ubuntu.png"><br>Ubuntu</td>
     <td><img alt="Android" align= "center" width="75px" height="75px" src="./Images/Tools/android.png"><br>Android</td>
 </table>
+
+<br>
+
+---
+
+# Wanna connect? 👻
+
+*Follow me here*👍
+
+<p>
+  <a href="mailto: aasjensenm@gmail.com"><img alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a>
+  <a href="https://www.youtube.com/MarcusAasJensen_"><img alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a>
+  <a href="https://www.instagram.com/marcus_aasjensen"><img alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a>
+  <a href="https://marcus-a.itch.io"><img alt="Itchio" width="45px" height="45px" src="./Images/Links/itchio.png"></a>
+</p>
+
+**psssst! Would you mind sharing that link?**
+<p>
+  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="50px" src="./Images/Links/linktree.svg"</a>
+</p>
+  
+*Thanks again* 😉
+
+<br>
+
 
 ![bannerend](./Images/Banner/marcusaasjensen_youtube_banner_cropped.png)
