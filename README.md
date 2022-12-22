@@ -71,7 +71,7 @@
 
 **psssst! Would you mind sharing that link?**
 <p>
-  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="50px" src="./Images/Links/linktree.svg"</a>
+  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"</a>
 </p>
   
 *Thanks again* 😉
