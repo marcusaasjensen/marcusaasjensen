@@ -25,7 +25,7 @@
   <a href="mailto: aasjensenm@gmail.com"><img alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a>
   <a href="https://www.youtube.com/MarcusAasJensen_"><img alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a>
   <a href="https://www.instagram.com/marcus_aasjensen"><img alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a>
-  <a href="https://marcus-a.itch.io"><img alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a>
+  <a href="https://marcus-a.itch.io"><img alt="Itchio" width="45px" height="45px" src="./Images/Links/itchio.png"></a>
 </p>
 
 ---
