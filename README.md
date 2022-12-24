@@ -1,3 +1,5 @@
+# Github Stats 📈
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
 </p>
@@ -10,7 +12,7 @@
 
 *Creativity - Curiosity - Competency*
 
->I am Marcus Aas Jensen, a french student at Polytech and an inspired creator striving to become a software engineer. 💻
+>I am Marcus Aas Jensen, a french student at [Polytech](https://polytech.univ-cotedazur.fr/) and an inspired creator striving to become a software engineer. 💻
 >
 >I am greatly interested in video game development and in building creative tools for artists wishing for better solutions to express themselves. 🖌️🕹️ 
 >
@@ -24,7 +26,7 @@
 <table align="center">
   <td><img alt="C" align= "center" width="50px" height="50px" src="./Images/Languages/c_language.svg"></td>
   <td><img alt="C++" align= "center" width="50px" height="50px" src="./Images/Languages/cpp_language.svg"></td>
-  <td><img alt="C#" align= "center" width="50px" height="50px" src="./Images/Languages/cs_language.svg"></td>
+  <td><img alt="C#" align= "center" width="43px" height="43px" src="./Images/Languages/cs_language.svg"></td>
   <td><img alt="Java" align= "center" width="50px" height="50px" src="./Images/Languages/java_language.svg"></td>
   <td><img alt="Javascript" align= "center" width="50px" height="50px" src="./Images/Languages/javascript_language.svg"></td>
 </table>
