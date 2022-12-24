@@ -1,4 +1,4 @@
-# Github Stats 📈
+# GitHub Stats 📈
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
