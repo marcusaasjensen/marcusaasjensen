@@ -1,11 +1,17 @@
-# GitHub stats 📈
+# GitHub stats 📈 
+
+![Profile Views](https://komarev.com/ghpvc/?username=marcusaasjensen&color=grey&style=for-the-badge)
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
 </p>
   
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcusaasjensen&theme=github-compact&layout=compact&langs_count=8">
 </p>
 
 # Hi I'm Marcus 👋
