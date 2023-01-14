@@ -1,5 +1,3 @@
-export PAT_1
-
 # GitHub stats 📈 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcusaasjensen&color=grey&style=for-the-badge)
