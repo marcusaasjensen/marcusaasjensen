@@ -1,18 +1,26 @@
+# GitHub stats 📈 
+
+![Profile Views](https://komarev.com/ghpvc/?username=marcusaasjensen&color=grey&style=for-the-badge)
+
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
 </p>
   
 <p align="center">
-  <img height="190em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcusaasjensen&theme=github-compact&layout=compact&langs_count=8">
 </p>
 
 # Hi I'm Marcus 👋
 
 *Creativity - Curiosity - Competency*
 
->I am Marcus Aas Jensen, a french student at Polytech and an inspired creator striving to become a software engineer. 💻
+>I am Marcus Aas Jensen, a french student at [Polytech](https://polytech.univ-cotedazur.fr/) and an inspired creator striving to become a software engineer. 💻
 >
->I am greatly interested in video game development and in building creative tools for artists wishing for better solutions to express themselves. 🖌️🕹️ 
+>I am greatly interested in video game development, rendering and in building creative tools for artists wishing for better solutions to express themselves. 🖌️🕹️ 
 >
 >As an artist myself, I love to create video games with the Unity Engine to tell stories and to improve my programming skills as well. 🌱
 <br>
@@ -24,13 +32,13 @@
 <table align="center">
   <td><img alt="C" align= "center" width="50px" height="50px" src="./Images/Languages/c_language.svg"></td>
   <td><img alt="C++" align= "center" width="50px" height="50px" src="./Images/Languages/cpp_language.svg"></td>
-  <td><img alt="C#" align= "center" width="50px" height="50px" src="./Images/Languages/cs_language.svg"></td>
+  <td><img alt="C#" align= "center" width="43px" height="43px" src="./Images/Languages/cs_language.svg"></td>
   <td><img alt="Java" align= "center" width="50px" height="50px" src="./Images/Languages/java_language.svg"></td>
   <td><img alt="Javascript" align= "center" width="50px" height="50px" src="./Images/Languages/javascript_language.svg"></td>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=4&theme=gotham&count_private=true">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=4&theme=gotham&count_private=true">
 </p>
 
 # Main tools 🛠️
@@ -71,7 +79,7 @@
 
 **psssst! Would you mind sharing that link?**
 <p>
-  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="50px" src="./Images/Links/linktree.svg"</a>
+  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"</a>
 </p>
   
 *Thanks again* 😉
