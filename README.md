@@ -38,7 +38,7 @@
   <td><img alt="Unity" align= "center" width="150px" height="75px" src="./Images/Tools/unity_black.svg"><br>Unity</td>
   <td><img alt="Visual Studio" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio.svg"><br>VS</td>
   <td><img alt="Visual Studio Code" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio_code.svg"><br>VS Code</td>
-  <td><img alt="IntelliJ Idea" align= "center" width="50px" height="75px" src="./Images/Tools/intellij_idea.svg"><br>IntelliJ IDEA</td>
+  <td><img alt="JetBrains" align= "center" width="50px" height="75px" src="./Images/Tools/jetbrains.svg"><br>JetBrains</td>
   <td><img alt="Git" align= "center" width="50px" height="75px" src="Images/Tools/git.svg"><br>Git</td>
     <td><img alt="Github" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
   <td><img alt="Notion" align= "center" width="50px" height="75px" src="Images/Tools/notion.svg"><br>Notion</td>
