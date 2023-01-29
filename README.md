@@ -4,7 +4,9 @@
 
 <!--# GitHub stats 📈 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcusaasjensen&color=grey&style=for-the-badge)
+<p align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat">
+</p>
 
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
