@@ -1,4 +1,8 @@
-# GitHub stats 📈 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Howdy!&fontAlign=80&fontAlignY=40&color=0:2aa889,100:195466&fontColor=2aa889"/>
+</p>
+
+<!--# GitHub stats 📈 -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=marcusaasjensen&color=grey&style=for-the-badge)
 
