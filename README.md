@@ -26,7 +26,7 @@
 
 I am Marcus Aas Jensen, a french student at [Polytech](https://polytech.univ-cotedazur.fr/) and an inspired creator striving to become a software engineer. 💻
 
-I am greatly interested in video game development, rendering and in building creative tools for artists wishing for better solutions to express themselves. 🖌️🕹️ 
+I am greatly interested in video game development, rendering, quantum computing and in building creative tools for artists wishing for better solutions to express themselves. 🖌️🕹️ 
 
 As an artist myself, I love to create video games with the Unity Engine to tell stories and to improve my programming skills as well. 🌱
 
