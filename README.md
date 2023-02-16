@@ -43,7 +43,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=4&theme=gotham&count_private=true">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=6&theme=gotham&count_private=true">
 </p>
 
 # Main tools 🛠️
