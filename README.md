@@ -20,7 +20,7 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcusaasjensen&theme=github-compact&layout=compact&langs_count=8">
 </p>
 
-# Hi I'm Marcus 👋
+<h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
 >*Creativity - Curiosity - Competency*
 
