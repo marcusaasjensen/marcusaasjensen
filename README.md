@@ -22,6 +22,8 @@
 
 <h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/689461538943139872)](https://discord.com/users/689461538943139872)
+
 >*Creativity - Curiosity - Competency*
 
 I am Marcus Aas Jensen, a french student at [Polytech](https://polytech.univ-cotedazur.fr/) and an inspired creator striving to become a software engineer. 💻
