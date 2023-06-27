@@ -38,7 +38,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 <table align="center">
   <td><img alt="C" align= "center" width="50px" height="50px" src="./Images/Languages/c_language.svg"></td>
   <td><img alt="C++" align= "center" width="50px" height="50px" src="./Images/Languages/cpp_language.svg"></td>
-  <td><img alt="C#" align= "center" width="43px" height="43px" src="./Images/Languages/cs_language.svg"></td>
+  <td><img alt="C#" align= "center" width="45px" height="45px" src="./Images/Languages/cs_language.svg"></td>
   <td><img alt="Java" align= "center" width="50px" height="50px" src="./Images/Languages/java_language.svg"></td>
   <td><img alt="Javascript" align= "center" width="50px" height="50px" src="./Images/Languages/javascript_language.svg"></td>
 </table>
