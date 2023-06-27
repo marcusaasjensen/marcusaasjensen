@@ -41,22 +41,25 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="C#" align= "center" width="45px" height="45px" src="./Images/Languages/cs_language.svg"></td>
   <td><img alt="Java" align= "center" width="50px" height="50px" src="./Images/Languages/java_language.svg"></td>
   <td><img alt="Javascript" align= "center" width="50px" height="50px" src="./Images/Languages/javascript_language.svg"></td>
+    <td><img alt="Typescript" align= "center" width="50px" height="50px" src="./Images/Languages/typescript_language.svg"></td>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=10&theme=gotham&count_private=true">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=donut-vertical&langs_count=7&theme=gotham&count_private=true">
 </p>
 
-# Main tools 🛠️
+# Tools I know 🛠️
 <table align="center">
-  <td><img alt="Unity" align= "center" width="150px" height="75px" src="./Images/Tools/unity_black.svg"><br>Unity</td>
+  <td><img alt="Unity" align= "center" width="50px" height="75px" src="./Images/Tools/unity_black.png"><br>Unity</td>
   <td><img alt="Visual Studio" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio.svg"><br>VS</td>
   <td><img alt="Visual Studio Code" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio_code.svg"><br>VS Code</td>
   <td><img alt="JetBrains" align= "center" width="75px" height="75px" src="./Images/Tools/jetbrains.svg"><br>JetBrains</td>
   <td><img alt="Git" align= "center" width="50px" height="75px" src="Images/Tools/git.svg"><br>Git</td>
-    <td><img alt="Github" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
+  <td><img alt="Github" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
+  <td><img alt="ChatGPT" align= "center" width="50px" height="75px"src="Images/Tools/chatgpt.svg"><br>ChatGPT</td>
   <td><img alt="Notion" align= "center" width="50px" height="75px" src="Images/Tools/notion.svg"><br>Notion</td>
   <td><img alt="Figma" align= "center" width="50px" height="75px"src="Images/Tools/figma.svg"><br>Figma</td>
+  
 </table>
 
 <br>
@@ -85,7 +88,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 
 **psssst! Would you mind sharing that link?**
 <p>
-  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"</a>
+  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>
 </p>
   
 *Thanks again* 😉
