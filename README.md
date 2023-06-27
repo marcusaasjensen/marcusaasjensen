@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcusaasjensen&theme=github-compact&layout=compact&langs_count=8">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcusaasjensen&theme=github-compact&layout=compact&langs_count=8">
 </p>
 
 <h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
