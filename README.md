@@ -45,12 +45,12 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=donut-vertical&langs_count=7&theme=gotham&count_private=true">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=7&theme=gotham&count_private=true">
 </p>
 
-# Tools I know 🛠️
+# Main Tools 🛠️
 <table align="center">
-  <td><img alt="Unity" align= "center" width="50px" height="75px" src="./Images/Tools/unity_black.png"><br>Unity</td>
+  <td><img alt="Unity" align= "center" width="50px" height="50px" src="./Images/Tools/unity_black.png"><br>Unity</td>
   <td><img alt="Visual Studio" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio.svg"><br>VS</td>
   <td><img alt="Visual Studio Code" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio_code.svg"><br>VS Code</td>
   <td><img alt="JetBrains" align= "center" width="75px" height="75px" src="./Images/Tools/jetbrains.svg"><br>JetBrains</td>
