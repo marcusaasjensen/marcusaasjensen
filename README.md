@@ -41,7 +41,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="C#" align= "center" width="45px" height="45px" src="./Images/Languages/cs_language.svg"></td>
   <td><img alt="Java" align= "center" width="50px" height="50px" src="./Images/Languages/java_language.svg"></td>
   <td><img alt="Javascript" align= "center" width="50px" height="50px" src="./Images/Languages/javascript_language.svg"></td>
-    <td><img alt="Typescript" align= "center" width="50px" height="50px" src="./Images/Languages/typescript_language.svg"></td>
+    <td><img alt="Typescript" align= "center" width="40px" height="40px" src="./Images/Languages/typescript_language.svg"></td>
 </table>
 
 <p align="center">
@@ -50,7 +50,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 
 # Main Tools 🛠️
 <table align="center">
-  <td><img alt="Unity" align= "center" width="50px" height="50px" src="./Images/Tools/unity_black.png"><br>Unity</td>
+  <td><img alt="Unity" align= "center" width="60px" height="60px" src="./Images/Tools/unity_black.png"><br>Unity</td>
   <td><img alt="Visual Studio" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio.svg"><br>VS</td>
   <td><img alt="Visual Studio Code" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio_code.svg"><br>VS Code</td>
   <td><img alt="JetBrains" align= "center" width="75px" height="75px" src="./Images/Tools/jetbrains.svg"><br>JetBrains</td>
@@ -80,16 +80,14 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 *Follow me here*👍
 
 <p>
-  <a href="mailto: aasjensenm@gmail.com"><img alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a>
-  <a href="https://www.youtube.com/MarcusAasJensen_"><img alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a>
-  <a href="https://www.instagram.com/marcus_aasjensen"><img alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a>
-  <a href="https://marcus-a.itch.io"><img alt="Itchio" width="45px" height="45px" src="./Images/Links/itchio.png"></a>
+  <a href="mailto: aasjensenm@gmail.com"><img align="center" alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a>
+  <a href="https://www.youtube.com/MarcusAasJensen_"><img align="center" alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a>
+  <a href="https://www.instagram.com/marcus_aasjensen"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a>
+  <a href="https://marcus-a.itch.io"><img align="center" alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a>
 </p>
 
-**psssst! Would you mind sharing that link?**
-<p>
-  <a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>
-</p>
+<a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>**psssst! Would you mind sharing that Tree?**
+
   
 *Thanks again* 😉
 
