@@ -76,19 +76,18 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 ---
 
 # Wanna connect? 👻
+*Follow me here or **click on the tree***👍
 
-*Follow me here*👍
+<a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>
 
-<p>
-  <a href="mailto: aasjensenm@gmail.com"><img align="center" alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a>
-  <a href="https://www.youtube.com/MarcusAasJensen_"><img align="center" alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a>
-  <a href="https://www.instagram.com/marcus_aasjensen"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a>
-  <a href="https://marcus-a.itch.io"><img align="center" alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a>
-</p>
+<table>
 
-<a href="https://linktr.ee/marcus_a"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>**psssst! Would you mind sharing that Tree?**
+  <td><a href="mailto: aasjensenm@gmail.com"><img align="center" alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a></td>
+  <td><a href="https://www.youtube.com/MarcusAasJensen_"><img align="center" alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a></td>
+  <td><a href="https://www.instagram.com/marcus_aasjensen"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a></td>
+  <td><a href="https://marcus-a.itch.io"><img align="center" alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a></td>
+</table>
 
-  
 *Thanks again* 😉
 
 <br>
