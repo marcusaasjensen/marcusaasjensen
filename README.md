@@ -94,4 +94,4 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 <br>
 
 
-![bannerend](./Images/Banner/marcusaasjensen_youtube_banner_cropped.png)
+![bannerend](./Images/Banner/marcusaasjensen_youtube_banner.png)
