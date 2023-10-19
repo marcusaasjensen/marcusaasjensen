@@ -84,7 +84,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 
   <td><a href="mailto: aasjensenm@gmail.com"><img align="center" alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a></td>
   <td><a href="https://www.youtube.com/@marcusjnsn"><img align="center" alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a></td>
-  <td><a href="https://www.instagram.com/marcus.aasjensen"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a></td>
+  <td><a href="https://www.instagram.com/marcus_aasjensen"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a></td>
   <td><a href="https://marcus-a.itch.io"><img align="center" alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a></td>
 </table>
 
