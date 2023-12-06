@@ -55,9 +55,8 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="Visual Studio Code" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio_code.svg"><br>VS Code</td>
   <td><img alt="JetBrains" align= "center" width="75px" height="75px" src="./Images/Tools/jetbrains.svg"><br>JetBrains</td>
   <td><img alt="Git" align= "center" width="50px" height="75px" src="Images/Tools/git.svg"><br>Git</td>
-  <td><img alt="Github" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
+  <td><img alt="GitHub" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
   <td><img alt="ChatGPT" align= "center" width="50px" height="75px"src="Images/Tools/chatgpt.svg"><br>ChatGPT</td>
-  <td><img alt="Notion" align= "center" width="50px" height="75px" src="Images/Tools/notion.svg"><br>Notion</td>
   <td><img alt="Figma" align= "center" width="50px" height="75px"src="Images/Tools/figma.svg"><br>Figma</td>
   
 </table>
