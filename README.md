@@ -58,7 +58,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="GitHub" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
   <td><img alt="ChatGPT" align= "center" width="50px" height="75px"src="Images/Tools/chatgpt.svg"><br>ChatGPT</td>
   <td><img alt="Figma" align= "center" width="50px" height="75px"src="Images/Tools/figma.svg"><br>Figma</td>
-  <td><img alt="Blender" align= "center" width="50px" height="75px"src="Images/Tools/blender.png"><br>Blender</td>
+  <td><img alt="Blender" align= "center" width="60px" height="60px"src="Images/Tools/blender.png"><br>Blender</td>
   
 </table>
 
