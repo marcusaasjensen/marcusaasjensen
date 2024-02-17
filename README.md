@@ -41,7 +41,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="C#" align= "center" width="45px" height="45px" src="./Images/Languages/cs_language.svg"></td>
   <td><img alt="Java" align= "center" width="50px" height="50px" src="./Images/Languages/java_language.svg"></td>
   <td><img alt="Javascript" align= "center" width="50px" height="50px" src="./Images/Languages/javascript_language.svg"></td>
-    <td><img alt="Typescript" align= "center" width="40px" height="40px" src="./Images/Languages/typescript_language.svg"></td>
+  <td><img alt="Typescript" align= "center" width="40px" height="40px" src="./Images/Languages/typescript_language.svg"></td>
 </table>
 
 <p align="center">
@@ -58,6 +58,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="GitHub" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
   <td><img alt="ChatGPT" align= "center" width="50px" height="75px"src="Images/Tools/chatgpt.svg"><br>ChatGPT</td>
   <td><img alt="Figma" align= "center" width="50px" height="75px"src="Images/Tools/figma.svg"><br>Figma</td>
+  <td><img alt="Blender" align= "center" width="50px" height="75px"src="Images/Tools/blender.png"><br>Blender</td>
   
 </table>
 
