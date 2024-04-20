@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Howdy!&fontAlign=80&fontAlignY=40&color=0:2aa889,100:195466&fontColor=2aa889"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&text=Howdy!&fontAlign=80&fontAlignY=40&color=0:1EFFD6,100:195466&fontColor=1EFFD6"/>
 </p>
 
 <!--# GitHub stats 📈 -->
@@ -93,4 +93,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 <br>
 
 
-![bannerend](./Images/Banner/marcusaasjensen_banner.png)
+
+![banner](https://github.com/marcusaasjensen/marcusaasjensen/assets/88457743/fa6dd0c7-ecc9-4344-90d9-a0fc95da6052)
+
+
