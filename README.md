@@ -62,17 +62,6 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   
 </table>
 
-<br>
-
-# Operating systems 💻
-<table align="center">
-  <td><img alt="Windows 11" align= "center" width="75px" height="75px" src="./Images/Tools/windows_11.svg"><br>Windows 11</td>
-  <td><img alt="Linux" align= "center" width="75px" height="75px" src="./Images/Tools/ubuntu.png"><br>Ubuntu</td>
-    <td><img alt="Android" align= "center" width="75px" height="75px" src="./Images/Tools/android.png"><br>Android</td>
-</table>
-
-<br>
-
 ---
 
 # Wanna connect? 👻
