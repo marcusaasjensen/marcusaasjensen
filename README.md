@@ -22,9 +22,7 @@
 
 <h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
->*Creativity - Curiosity - Competency*
-
-I am Marcus Aas Jensen, a french student at [Polytech](https://polytech.univ-cotedazur.fr/) and an inspired creator striving to become a software engineer. 💻
+I am Marcus Jensen, a french software engineer creating video games on the side to tell emotional stories. 💻
 
 I am greatly interested in video game development, rendering, other computer science stuff and in building creative tools for artists wishing for better solutions to express themselves. 🖌️🕹️ 
 
@@ -55,7 +53,7 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
   <td><img alt="Visual Studio Code" align= "center" width="50px" height="75px" src="./Images/Tools/visual_studio_code.svg"><br>VS Code</td>
   <td><img alt="JetBrains" align= "center" width="75px" height="75px" src="./Images/Tools/jetbrains.svg"><br>JetBrains</td>
   <td><img alt="Git" align= "center" width="50px" height="75px" src="Images/Tools/git.svg"><br>Git</td>
-  <td><img alt="GitHub" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td>
+<!--   <td><img alt="GitHub" align= "center" width="50px" height="75px" src="Images/Tools/github.svg"><br>Github</td> -->
   <td><img alt="Figma" align= "center" width="50px" height="75px"src="Images/Tools/figma.svg"><br>Figma</td>
   <td><img alt="Blender" align= "center" width="60px" height="60px"src="Images/Tools/blender.png"><br>Blender</td>
   
@@ -69,7 +67,6 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 <a href="https://linktr.ee/marcusjensen"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>
 
 <table>
-
   <td><a href="mailto: aasjensenm@gmail.com"><img align="center" alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a></td>
   <td><a href="https://www.youtube.com/@marcusjensen"><img align="center" alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a></td>
   <td><a href="https://www.instagram.com/marcus_aasjensen"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a></td>
