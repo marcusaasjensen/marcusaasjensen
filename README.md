@@ -28,7 +28,6 @@ I am greatly interested in video game development, rendering, other computer sci
 
 As an artist myself, I love to create video games with the Unity Engine to tell stories and to improve my programming skills as well. 🌱
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/689461538943139872)](https://discord.com/users/689461538943139872)
 ---
 
 # Languages selection ⌨️
