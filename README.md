@@ -70,10 +70,3 @@ As an artist myself, I love to create video games with the Unity Engine to tell 
 
 *Thanks again* 😉
 
-<br>
-
-
-<img width="1920" alt="banner" src="https://github.com/marcusaasjensen/marcusaasjensen/assets/88457743/36e1b8f8-b3ba-461a-a932-8a11de190161">
-
-
-
