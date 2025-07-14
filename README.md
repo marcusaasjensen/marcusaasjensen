@@ -8,9 +8,9 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
-</p>
+</p> -->
   
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true&include_all_commits=true"/>
