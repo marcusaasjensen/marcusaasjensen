@@ -28,17 +28,13 @@ I am greatly interested in video game development, rendering, other computer sci
 
 As an artist myself, I love to create video games to tell stories and to improve my programming skills as well.
 
----
+<img alt="LinkTree" width="25px" height="35px" src="./Images/Links/linktree.png"> <a href="https://linktr.ee/marcusjensen">@marcusjensen</a>
 
-# Wanna connect? 👻
+<img align="center" alt="GMail" width="25px" height="25px" src="./Images/Links/gmail.svg"> <a href="mailto: marcusjensendev@gmail.com">marcusjensendev@gmail.com</a>
 
-<img alt="LinkTree" width="30px" height="40px" src="./Images/Links/linktree.png"> <a href="https://linktr.ee/marcusjensen">@marcusjensen</a>
+<img align="center" alt="Youtube" width="25px" height="25px" src="./Images/Links/youtube.svg"> <a href="https://www.youtube.com/@marcusjensendev">@marcusjensendev</a>
 
-<img align="center" alt="GMail" width="30px" height="30px" src="./Images/Links/gmail.svg"> <a href="mailto: marcusjensendev@gmail.com">marcusjensendev@gmail.com</a>
+<img align="center" alt="Instagram" width="25px" height="25px" src="./Images/Links/instagram_stylized.png"> <a href="https://www.instagram.com/marcusjensendev">@marcusjensendev</a>
 
-<img align="center" alt="Youtube" width="30px" height="30px" src="./Images/Links/youtube.svg"> <a href="https://www.youtube.com/@marcusjensendev">@marcusjensendev</a>
-
-<img align="center" alt="Instagram" width="30px" height="30px" src="./Images/Links/instagram_stylized.png"> <a href="https://www.instagram.com/marcusjensendev">@marcusjensendev</a>
-
-<img align="center" alt="Itchio" width="30px" height="30px" src="./Images/Links/itchio.png"> <a href="https://marcusjensen.itch.io">@marcusjensen</a>
+<img align="center" alt="Itchio" width="25px" height="25px" src="./Images/Links/itchio.png"> <a href="https://marcusjensen.itch.io">@marcusjensen</a>
 
