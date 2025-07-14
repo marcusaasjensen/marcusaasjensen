@@ -26,21 +26,19 @@ I am Marcus Jensen, a french software engineer creating video games on the side 
 
 I am greatly interested in video game development, rendering, other computer science stuff and in building creative tools for artists wishing for better solutions to express themselves.
 
-As an artist myself, I love to create video games with the Unity Engine to tell stories and to improve my programming skills as well.
+As an artist myself, I love to create video games to tell stories and to improve my programming skills as well.
 
 ---
 
 # Wanna connect? 👻
-*Follow me here or **click on the tree***👍
 
-<a href="https://linktr.ee/marcusjensen"><img alt="LinkTree" width="50px" height="60px" src="./Images/Links/linktree.png"></a>
+<img alt="LinkTree" width="30px" height="40px" src="./Images/Links/linktree.png"> <a href="https://linktr.ee/marcusjensen">@marcusjensen</a>
 
-<table>
-  <td><a href="mailto: marcusjensendev@gmail.com"><img align="center" alt="GMail" width="50px" height="50px" src="./Images/Links/gmail.svg"></a></td>
-  <td><a href="https://www.youtube.com/@marcusjensendev"><img align="center" alt="Youtube" width="50px" height="50px" src="./Images/Links/youtube.svg"></a></td>
-  <td><a href="https://www.instagram.com/marcusjensendev"><img align="center" alt="Instagram" width="50px" height="50px" src="./Images/Links/instagram_stylized.png"></a></td>
-  <td><a href="https://marcusjensen.itch.io"><img align="center" alt="Itchio" width="40px" height="40px" src="./Images/Links/itchio.png"></a></td>
-</table>
+<img align="center" alt="GMail" width="30px" height="30px" src="./Images/Links/gmail.svg"> <a href="mailto: marcusjensendev@gmail.com">marcusjensendev@gmail.com</a>
 
-*Thanks again* 😉
+<img align="center" alt="Youtube" width="30px" height="30px" src="./Images/Links/youtube.svg"> <a href="https://www.youtube.com/@marcusjensendev">@marcusjensendev</a>
+
+<img align="center" alt="Instagram" width="30px" height="30px" src="./Images/Links/instagram_stylized.png"> <a href="https://www.instagram.com/marcusjensendev">@marcusjensendev</a>
+
+<img align="center" alt="Itchio" width="30px" height="30px" src="./Images/Links/itchio.png"> <a href="https://marcusjensen.itch.io">@marcusjensen</a>
 
