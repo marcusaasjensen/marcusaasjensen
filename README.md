@@ -27,12 +27,6 @@ As an artist myself, I love to create video games to tell stories and to improve
 <table align="right">
 <tr>
 <td>
-
-<img src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat&label=Visits&abbreviated=true" />
-
-</td>
-<td>
-
 <p>
   <a href="https://linktr.ee/marcusjensen"><img alt="Linktree" src="./Images/Links/linktree.png" height="28px"></a>
   <a href="mailto:marcusjensendev@gmail.com"><img alt="Gmail" src="./Images/Links/gmail.svg" height="25px"></a>
@@ -40,7 +34,9 @@ As an artist myself, I love to create video games to tell stories and to improve
   <a href="https://www.instagram.com/marcusjensendev"><img alt="Instagram" src="./Images/Links/instagram_stylized.png" height="25px"></a>
   <a href="https://marcusjensen.itch.io"><img alt="Itch.io" src="./Images/Links/itchio.png" height="25px"></a>
 </p>
-
+</td>
+<td>
+<img src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=blue&style=flat&label=Visits&abbreviated=true" />
 </td>
 </tr>
 </table>
