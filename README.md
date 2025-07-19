@@ -32,6 +32,7 @@ As an artist myself, I love to create video games to tell stories and to improve
   <a href="mailto:marcusjensendev@gmail.com"><img alt="Gmail" src="./Images/Links/gmail.svg" height="25px"></a>
   <a href="https://www.youtube.com/@marcusjensendev"><img alt="YouTube" src="./Images/Links/youtube.svg" height="25px"></a>
   <a href="https://www.instagram.com/marcusjensendev"><img alt="Instagram" src="./Images/Links/instagram_stylized.png" height="25px"></a>
+  <a href="https://x.com/marcusjensendev"><img height="25px" alt="x logo" src="https://github.com/user-attachments/assets/80cd8069-7adf-4353-b901-94358c553cbd" /></a>
   <a href="https://marcusjensen.itch.io"><img alt="Itch.io" src="./Images/Links/itchio.png" height="25px"></a>
 </p>
 </td>
@@ -39,5 +40,6 @@ As an artist myself, I love to create video games to tell stories and to improve
 <img src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=blue&style=flat&label=Visits&abbreviated=true" />
 </td>
 </tr>
+
 </table>
 
