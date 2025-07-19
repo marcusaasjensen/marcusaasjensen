@@ -22,8 +22,6 @@ I am Marcus Jensen, a french software engineer creating video games on the side 
 
 I am greatly interested in video game development, rendering, other computer science stuff and in building creative tools for artists wishing for better solutions to express themselves.
 
-As an artist myself, I love to create video games to tell stories and to improve my programming skills as well.
-
 <table align="right">
 <tr>
 <td>
