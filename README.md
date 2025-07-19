@@ -9,11 +9,8 @@
 </p> -->
   
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&langs_count=8&theme=gotham&count_private=true&include_all_commits=true"/>
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=7&theme=gotham&count_private=true">
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=marcusaasjensen&layout=compact&theme=gotham&count_private=true&include_all_commits=true&show_icons=true&hide_title=true"/>
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&theme=gotham&count_private=true&hide=ShaderLab&">
 </p>
 
 <h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
