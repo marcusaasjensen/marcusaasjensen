@@ -4,10 +4,6 @@
 
 <!--# GitHub stats 📈 -->
 
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat">
-</p>
-
 <!-- <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=marcusaasjensen&theme=gotham&hide_border=true">
 </p> -->
@@ -20,7 +16,7 @@
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=7&theme=gotham&count_private=true">
 </p>
 
-<h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
+<h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align="right" src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat&label=Visits&abbreviated=true"></h1>
 
 I am Marcus Jensen, a french software engineer creating video games on the side to tell emotional stories.
 
