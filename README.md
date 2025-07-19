@@ -16,7 +16,7 @@
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&langs_count=7&theme=gotham&count_private=true">
 </p>
 
-<h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><img align="right" src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat&label=Visits&abbreviated=true"></h1>
+<h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 I am Marcus Jensen, a french software engineer creating video games on the side to tell emotional stories.
 
@@ -24,7 +24,16 @@ I am greatly interested in video game development, rendering, other computer sci
 
 As an artist myself, I love to create video games to tell stories and to improve my programming skills as well.
 
-<p align="right">
+<table align="right">
+<tr>
+<td>
+
+<img src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=brightgreen&style=flat&label=Visits&abbreviated=true" />
+
+</td>
+<td>
+
+<p>
   <a href="https://linktr.ee/marcusjensen"><img alt="Linktree" src="./Images/Links/linktree.png" height="28px"></a>
   <a href="mailto:marcusjensendev@gmail.com"><img alt="Gmail" src="./Images/Links/gmail.svg" height="25px"></a>
   <a href="https://www.youtube.com/@marcusjensendev"><img alt="YouTube" src="./Images/Links/youtube.svg" height="25px"></a>
@@ -32,4 +41,7 @@ As an artist myself, I love to create video games to tell stories and to improve
   <a href="https://marcusjensen.itch.io"><img alt="Itch.io" src="./Images/Links/itchio.png" height="25px"></a>
 </p>
 
+</td>
+</tr>
+</table>
 
