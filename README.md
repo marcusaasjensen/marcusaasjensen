@@ -16,9 +16,9 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=marcusaasjensen&layout=compact&theme=gotham&count_private=true&hide=ShaderLab&">
 </p>
 
-<h1>Hi I'm Marcus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1>I'm Marcus Jensen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-I am Marcus Jensen, a french software engineer creating video games on the side to tell emotional stories.
+A french software engineer creating video games on the side to tell emotional stories.
 
 I am greatly interested in video game development, rendering, other computer science stuff and in building creative tools for artists wishing for better solutions to express themselves.
 
