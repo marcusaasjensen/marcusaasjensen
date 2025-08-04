@@ -22,6 +22,15 @@ A french software engineer creating video games on the side to tell emotional st
 
 I am greatly interested in video game development, rendering, other computer science stuff and in building creative tools for artists wishing for better solutions to express themselves.
 
+### Currently working on...
+<p align="left">
+  <a href="https://github.com/marcusaasjensen/3d-renderer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=marcusaasjensen&repo=3d-renderer&theme=gotham" />
+  </a>
+</p>
+
+
+
 <table align="right">
 <tr>
 <td>
