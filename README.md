@@ -29,8 +29,6 @@ I am greatly interested in video game development, rendering, other computer sci
   </a>
 </p>
 
-
-
 <table align="right">
 <tr>
 <td>
@@ -47,6 +45,4 @@ I am greatly interested in video game development, rendering, other computer sci
 <img src="https://komarev.com/ghpvc/?username=marcusaasjensen&color=blue&style=flat&label=Visits&abbreviated=true" />
 </td>
 </tr>
-
 </table>
-
