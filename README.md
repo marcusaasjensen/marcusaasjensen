@@ -22,6 +22,8 @@ A french software engineer creating video games on the side to tell emotional st
 
 I am greatly interested in video game development, rendering, other computer science stuff and in building creative tools for artists wishing for better solutions to express themselves.
 
+*For more informations, go ahead and visit my personal website <a href="https://marcusaasjensen.com">marcusaasjensen.com</a>*
+
 <table align="right">
 <tr>
 <td>
